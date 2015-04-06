@@ -1,8 +1,9 @@
 mapping:
   name: string
+  birtday: date
   dorm: string
   room: string
   gpa: string
-  country: country_iso
+  country: string
   required: boolean
   cost: currency

@@ -1,8 +1,8 @@
 {
   "rows": [
-    ["Sally Whittaker", "McCarren House", "312", "3.75", "France", "+", "123.123"],
-    ["Jeff Smith", "Prescott House",  "17-D",  "3.20",  "Austria", "", "45.12"],
-    ["Sandy Allen", "Oliver House",  "108", "3.48",  "Germany", "+", "66.17"],
-    ["Belinda Jameson", "Cushing House", "148", "3.52",  "Italy", "", "90,123"]
+    ["Sally Whittaker", "1988-01-11", "McCarren House", "312", "3.75", "France", "+", "123.123"],
+    ["Jeff Smith", "1993-02-23", "Prescott House",  "17-D",  "3.20",  "Austria", "", "45.12"],
+    ["Sandy Allen", "1978-06-16", "Oliver House",  "108", "3.48",  "Germany", "+", "66.17"],
+    ["Belinda Jameson", "1994-05-17", "Cushing House", "148", "3.52",  "Italy", "", "90,123"]
   ]
 }

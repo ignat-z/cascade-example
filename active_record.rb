@@ -12,6 +12,7 @@ ActiveRecord::Schema.define do
 
   create_table :people do |table|
     table.column :name,     :string
+    table.column :birtday,  :date
     table.column :dorm,     :string
     table.column :room,     :string
     table.column :gpa,      :string
