@@ -6,4 +6,4 @@ Cascade.configuration do
   Cascade::ColumnsMatching.mapping_file = "columns_mapping.yml"
 end
 
-Cascade::DataParser.new("data_test.txt", data_provider: CascadeCsv).call
+Cascade::DataParser.new(data_provider: CascadeCsv.open("data_test.txt")).call
