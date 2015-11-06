@@ -4,6 +4,6 @@ mapping:
   dorm: string
   room: string
   gpa: string
-  country_iso: country_iso
+  country_iso: string
   required: boolean
   cost: currency
